@@ -301,11 +301,6 @@ hash = "03a9564d7cdb16578f46c6f58dcc261968bb440c243ad90229d8ce58aaccc0d3"
 metafile = true
 
 [[files]]
-file = "mods/vista_tv.pw.toml"
-hash = "45eacb077412e52f365954d9fb8ddd58585eba1db841aacec84223e6cb0da28f"
-metafile = true
-
-[[files]]
 file = "mods/waterframes.pw.toml"
 hash = "59e15d108b41b10145596a3ef899ad20ef8c8885504eef10cd89225aef87daef"
 metafile = true
