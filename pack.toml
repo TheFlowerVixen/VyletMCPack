@@ -1,0 +1,13 @@
+name = "Vylet MC Pack"
+author = "TheFlowerVixen"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a0e6360bbec1382819dd868ea49c1dea26298d086562178be222fa862d17b7fb"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.264"
