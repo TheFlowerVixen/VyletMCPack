@@ -166,6 +166,11 @@ hash = "c5744f32a5a65e376d5631cc6fe7612b1cf018466a5f008cce4ad5ccffa582f8"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-lang-forge.pw.toml"
 hash = "b22c11371ffadff832106e1b0883cacb1a1a5cb4dd960b676bfd8dd1ddaa3f51"
 metafile = true
@@ -306,8 +311,13 @@ hash = "107ac013e362194af2c173382161076428f7b6aa1d50ad785f6004057d2a57eb"
 metafile = true
 
 [[files]]
+file = "mods/watermedia-yt-plugin.pw.toml"
+hash = "4faf890cddc7addc968e262b4bc55ca47f59e482fa5c23e780def45d099f84e4"
+metafile = true
+
+[[files]]
 file = "mods/watermedia.pw.toml"
-hash = "b33230f0f3db997c4a32aa1b778fdb0b33a542660b6d5f8cf5b69f9a9644bce3"
+hash = "9c14d2011a343872dfa72aee64ef7beb2f9f9e47867807b4b03726cfa8e429b7"
 metafile = true
 
 [[files]]
