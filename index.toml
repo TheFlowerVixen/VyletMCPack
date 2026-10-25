@@ -169,16 +169,6 @@ hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
-file = "mods/figura.pw.toml"
-hash = "eedcb7fff4e1e6e1e9b81920521277596b0907b0de377f06dc306d2d6624c69d"
-metafile = true
-
-[[files]]
-file = "mods/figurasvc.pw.toml"
-hash = "9fdb67f1eee9b81f485000bbcab37002aabec6e5d734321a8b3da26354b4ba7b"
-metafile = true
-
-[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "981e52e1c4a97465921342f556cced335c6c75cdb050e9fc528d52cf4ff88b79"
 metafile = true
