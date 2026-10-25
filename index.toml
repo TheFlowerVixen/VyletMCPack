@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/defaultoptions/keybindings.txt"
-hash = "1303bdbbddbaeb3622e8618b7448cdf7a6087e1e185822df4adce4799684f02e"
-
-[[files]]
-file = "config/defaultoptions/servers.dat"
-hash = "93ea4681009110c951584536b6caa5e3607c750481479dfc834e7b7c2acf3090"
-
-[[files]]
 file = "mods/accessories-compat-layer.pw.toml"
 hash = "b77da93300cfb9a239aa33ad731f9672ae3c74d3218aa149df89449962cb8594"
 metafile = true
@@ -111,11 +103,6 @@ metafile = true
 [[files]]
 file = "mods/custom-player-models.pw.toml"
 hash = "eb782f7993af2d30ddab28203fbc9d520d09dd53e36dd624734bfc7e86b34127"
-metafile = true
-
-[[files]]
-file = "mods/default-options.pw.toml"
-hash = "a6967d761dde867ccc1af53dc9f4e530eb9917a9cb21d0fc15708e8cd2c0f2ba"
 metafile = true
 
 [[files]]
