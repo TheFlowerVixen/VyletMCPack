@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "cfe43f50b45242b366448b6d88cb5323227e5f84f2fdb68e14d9ad3a9a721ab9"
+hash = "d2693bcbac6f3ef9068f287df3cd189d44cdff9223e47f2a9e6e348b3a39edaf"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
