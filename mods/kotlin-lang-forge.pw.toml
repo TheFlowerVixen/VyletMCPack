@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/1vrSzlao/versions/CSuMh1dl/KotlinLangForge-2.16.0-k2.4.21-3.0%2Bneoforge.jar"
-hash-format = "sha256"
-hash = "269967f823c0f68192b5fbf2b676a08e1d0663c09ae92f5f179b5c185fd713dc"
+hash-format = "sha512"
+hash = "ad3d9d986c794c1859759b92aed9ee7d37c32597e581244defe0f4965deba8d84a6f48b92fd58d346c66ce76eedc7a80bf2600dea80499bafa196196c4d12419"
 
 [update]
 [update.modrinth]

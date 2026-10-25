@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/YOs4tZea/versions/73U02HbA/xercapaint-neoforge-1.21.1-2.0.1.jar"
-hash-format = "sha256"
-hash = "2f1ddfdfa491bb3bea56c935d767c25931bef8ee55fd0c952f98130100cb1218"
+hash-format = "sha512"
+hash = "a79e8f5af0a744492a09e1be417a76f4d4a03786b80d9b9fad298480c09a443a2a1ac54826d42fa8d6b5d1c4b4edc8dc227ba2aa642e7ffb3993bbfbf99c971a"
 
 [update]
 [update.modrinth]
