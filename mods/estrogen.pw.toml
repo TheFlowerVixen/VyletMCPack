@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/HhIJW8n1/versions/jLNES5cw/estrogen-6.0.10%2B1.21.1-neoforge.jar"
-hash-format = "sha256"
-hash = "040c823e001c5a3bebf0d34be0e6305ce2c92b8879c6088b030387d0626d4307"
+hash-format = "sha512"
+hash = "47477936cf51fb1cd55f3603ecd36c14c3295284fdccc5f6587581bfd49abff7f4ff7c45dcadf0e4f3eb5d966ac8e2a41fdcf4722e3540d189cd4ecdc244dfe3"
 
 [update]
 [update.modrinth]
