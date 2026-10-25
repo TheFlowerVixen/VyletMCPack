@@ -1,12 +1,12 @@
 name = "Vylet MC Pack"
 author = "TheFlowerVixen"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6afadaf546e7744c7e1b9bc379f701b9728ad74e23c14d11f45bab8496db544f"
+hash = "e53bff12ebb1a42aa844d1a680e5567163a70eed466911c1f576c3ba41f8dc60"
 
 [versions]
 minecraft = "1.21.1"
