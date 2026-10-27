@@ -19,6 +19,11 @@ hash = "2017362c793d95887d38b3353abb7c77f212175e82ed848296575ea0e466b7d7"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "8ae41d3a92b5eb712cbb0d8acfd9fa86a49fee510d3d029a592044bc5b959214"
+metafile = true
+
+[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "846290a7a2b0af86414001d097ddc694b58266f8e9f57e3d381fda3e64e81212"
 metafile = true
@@ -31,6 +36,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "603cdc47142b5aa5729cbbf265a473574c9e2b55561de4318e9842d3d4b3b995"
+metafile = true
+
+[[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "22d9510588b081cf9905f6549d24bc11012aa8d9c7d38a8619ab9db5ccb7b9a8"
 metafile = true
 
 [[files]]
