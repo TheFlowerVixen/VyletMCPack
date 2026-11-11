@@ -44,6 +44,11 @@ hash = "603cdc47142b5aa5729cbbf265a473574c9e2b55561de4318e9842d3d4b3b995"
 metafile = true
 
 [[files]]
+file = "mods/blueprint.pw.toml"
+hash = "932b1f0df544525e277b4f75fc47dc9c01d0481d773f026082f1cae5c4afdb69"
+metafile = true
+
+[[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "22d9510588b081cf9905f6549d24bc11012aa8d9c7d38a8619ab9db5ccb7b9a8"
 metafile = true
@@ -76,11 +81,6 @@ metafile = true
 [[files]]
 file = "mods/cpmsvcc.pw.toml"
 hash = "22498e794ce88fc6c5513063a7b73f411c4f1d567e890d406645514111235b0a"
-metafile = true
-
-[[files]]
-file = "mods/crawl.pw.toml"
-hash = "349b56aa9ea8284fb89e880941d319ce52e50e51d63084472ea93493cff105b7"
 metafile = true
 
 [[files]]
@@ -336,6 +336,11 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "e5141bf653c820b9967b8be2e3d9d8e83f3b54d0450f0cabe812e00cce481fdf"
+metafile = true
+
+[[files]]
+file = "mods/personality.pw.toml"
+hash = "1fe435750e9ada72bd54b4d1124088e8e9f6401d7710b296b86e8030cf0098cb"
 metafile = true
 
 [[files]]
