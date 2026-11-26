@@ -114,8 +114,18 @@ hash = "2e6b4b91ba3df20af4e4ff370a1ee2cd97211b066cd09c2c9f801ec96d592b63"
 metafile = true
 
 [[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "d1a7402cc94a8a857d380f68bb9a19d8981a2b3223068a53d9054e97232f4167"
+metafile = true
+
+[[files]]
 file = "mods/create-trading-floor.pw.toml"
 hash = "dd46758c8eb82deb6dcd56a9879dc5e583ff812245ebb357fd79053a60c58871"
+metafile = true
+
+[[files]]
+file = "mods/create-ultimate-factory.pw.toml"
+hash = "34d808989e71221b8e01a44bc8031f20af1c94981acb0cba4669e0e58be69629"
 metafile = true
 
 [[files]]
@@ -236,6 +246,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
+metafile = true
+
+[[files]]
+file = "mods/isleweaver.pw.toml"
+hash = "5cc210d63259e799b47aa228bbee91d56e91b6aa6c19942b0db4e6ab87113a6e"
 metafile = true
 
 [[files]]
@@ -406,6 +421,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "c7e7206384e1d5ab7caecc643dda50dae1886312e0aeca5aaef8852bb6b11b4e"
+metafile = true
+
+[[files]]
+file = "mods/the-beyond.pw.toml"
+hash = "38adf4d5137b7937f0d8b01d4dd61c9bd8a4f4a7f2149e867c17b53311d21c47"
 metafile = true
 
 [[files]]
