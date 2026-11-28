@@ -1,0 +1,13 @@
+name = "Mysterious Mountain Lib"
+filename = "mysterious_mountain_lib-1.3.16-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ntMyNH8c/versions/UZbuAxuL/mysterious_mountain_lib-1.3.16-1.21.1.jar"
+hash-format = "sha512"
+hash = "a7c07ef229dbba1283dee13e55bcdcc1b6d7722b5cc28567e184d5151107b848b6c0be8b52ec253da1b552d205d77ec73f3e70da91641f9ead846f3fab2c5fa9"
+
+[update]
+[update.modrinth]
+mod-id = "ntMyNH8c"
+version = "UZbuAxuL"
